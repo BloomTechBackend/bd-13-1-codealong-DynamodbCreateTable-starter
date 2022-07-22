@@ -43,8 +43,8 @@ This lesson plan template is aimed at preparing instructors to deliver a high qu
 ### 3. What Will We Be Building In This Code-Along? (2-3 min.)
 
 We will learn
-    - how to change AWS region for DynamoDB in code.
-    - how to create a DynamoDb table through Java code.
+  - how to change AWS region for DynamoDB in code.
+  - how to create a DynamoDb table through Java code.
 
 ***Preview End Result:*** 
 ```
@@ -93,7 +93,7 @@ Image here
      - Add a new Java file "CreateNewTable.java"
      - Add the following code and explain as per the instruction video.
 
-       ```
+     ```
        public class CreateNewTable {
         public static void main(String[] args) throws Exception {
           DynamoDB dynamoDB = new DynamoDB(DynamoDBClientProvider.REMOTE_CLIENT);
@@ -113,7 +113,7 @@ Image here
           }
         }
       }
-       ```
+     ```
      
 
 ### 5. Wrap Up (7-10 min.)
