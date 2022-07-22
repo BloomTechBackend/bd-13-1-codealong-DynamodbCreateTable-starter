@@ -1,4 +1,4 @@
-# Backend 13.2 - HTTP methods
+# Backend 13.1 - Create DynamoDB Table through Java code
 
 This lesson plan template is aimed at preparing instructors to deliver a high quality live session to learners who have already prepared to work on the project by setting up any prerequisites before coming to class.
 
