@@ -4,7 +4,7 @@ This lesson plan template is aimed at preparing instructors to deliver a high qu
 
 ## Prep List
 
-- [ ] Watch the lesson plan overview video. ***Link to be included once lesson plan is complete***
+- [ ] Watch the [lesson plan overview video](https://bloomtech-1.wistia.com/medias/4qv9ku5j4k).
 - [ ] After watching the lesson overview, internalize lesson plan in full
 - [ ] Set up your local machine to be prepared to teach the live session. You should also go through the Guided Practice videos for the first two modules of Sprint 13. That will help you significantly with this code along. Also, make sure you have AWS access.
 - [ ] If you are running code in your live session, make sure it works and the solution code is accurate
