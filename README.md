@@ -14,4 +14,4 @@
 ## Set Up
 
 - Clone this repo and open it in IntelliJ. 
-- Run the main method found in [App.java](./src/App.java). If that runs successfully, you are ready to go!
+- Run the main method. If that runs successfully, you are ready to go!
